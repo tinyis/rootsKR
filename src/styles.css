@@ -1,0 +1,20 @@
+
+.links {
+    margin: 10px;
+    text-decoration: none;
+  }
+  .links:hover {
+    color: red;
+  }
+
+  .krPic{
+      display: flex;
+      flex-direction: column;
+      margin:10px;
+  }
+
+  .krPic img{
+    width:500px;
+    height: auto;
+  }
+
